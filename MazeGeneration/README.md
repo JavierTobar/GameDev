@@ -15,7 +15,6 @@ If you run out of bullets and don't destroy part of the maze solution or if you 
 
 
 Preview of gameplay
-
 ![Gameplay](Media/34HPdVmVBq.gif)
 
 Preview of a given maze generation
