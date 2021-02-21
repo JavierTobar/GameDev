@@ -19,3 +19,6 @@ If a cannonball collides with a balloon, they are despawned.
 The terrain is also pseudo randomly generated recursively with [perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 
 ### This project highlights physics simulation by raycasting collisions and efficiently calculating a new trajectory based on the angle and power of collision, as well as a perlin noise generated 2D terrain.
+
+Preview of gameplay
+![Gameplay](f3OSa2Xrkf.gif)
