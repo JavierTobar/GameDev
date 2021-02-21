@@ -19,3 +19,6 @@ Whenever agents collide, they must move away from each other and calculate a new
 Despite this being the main purpose of this simulation, the game lags/freezes when we do many agents, such as 12+. 
 
 This also depends on your graphic cards, but on an RTX 3080, it would still freeze when using many agents.
+
+Preview of a collision resolution
+![Gameplay](XEpkD4VD2m.gif)
