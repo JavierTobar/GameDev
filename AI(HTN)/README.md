@@ -16,3 +16,6 @@ However, some forces still need fine tuning in order to appear more realistic.
 
 
 ### This project showcases an approach to automated planning, i.e. hierarchical task network (AI), as well as steering behavior.
+
+Preview of gameplay
+![Gameplay](41kYLBGKW0.gif)
