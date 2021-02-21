@@ -14,5 +14,5 @@ Some motivation comes from previous courses taken.
 
 e.g. I took an AI robotics course where we went over different path finding algorithms, I then integrated knowledge from that class into the path finding project, and so on.
 
-### This repo helps showcase popular algorithms such as Hierarchical task network (AI), A* path finding, maze generation, perlin noise.
+### This repo helps showcase popular algorithms such as Hierarchical task network (AI), A* path finding, maze generation, perlin noise, etc.
 
