@@ -13,6 +13,10 @@ If you run out of bullets and don't destroy part of the maze solution or if you 
 
 ### This projects highlights random 3D maze generation, path generation from spawn to the start of the maze and being able to recognize the maze solution.
 
+
+Preview of gameplay
+
 ![Gameplay](Media/34HPdVmVBq.gif)
 
+Preview of a given maze generation
 ![TerrainGeneration](Media/Unity_pg2IusARzd.jpg?raw=true)
