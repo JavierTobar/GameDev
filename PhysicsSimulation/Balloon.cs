@@ -153,7 +153,8 @@ public class Balloon : MonoBehaviour {
 
         }
     }
-
+// inspired from https://www.youtube.com/watch?v=FcnvwtyxLds
+// still somewhat buggy, need to fix it
     private void DrawRope () {
         float lineWidth = this.lineWidth;
         lineRenderer.startWidth = lineWidth;
