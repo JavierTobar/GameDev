@@ -2,7 +2,7 @@
 
 This repo stores different projects that I've done with Unity and C#.
 
-These are relatively simple games with a lot going behind the scenes.
+These are relatively simple games however there is a lot going behind the scenes.
 
 I did not use any Unity assets that would facilitate the game development.
 
